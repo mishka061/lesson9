@@ -1,0 +1,29 @@
+.out{
+   
+    color: #2703f5;
+    font-size: 40px;
+}
+.btn,
+.btn1,
+.btn2{
+   
+    background: chartreuse;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+#text{
+   
+    color: #f70505;
+    font-size: 40px;
+    animation-delay: 5s;
+}
+.zadanie1{
+    margin: 0 100px;
+    height: 300px;
+}
+.zadanie2,
+.zadanie3{
+    margin: 0 100px;
+    height: 200px;
+}
